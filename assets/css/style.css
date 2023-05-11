@@ -420,6 +420,7 @@ body {
   margin-bottom: 1rem;
   padding: 0.5rem 1rem;
   background: transparent;
+  color: #fff;
   border: 1.3px solid #fff;
 }
 
@@ -434,6 +435,7 @@ body {
 
 .form-input form textarea {
   margin-bottom: 1rem;
+  color: #fff;
   resize: none;
   height: 120px;
   padding: 0.3rem 1rem;
