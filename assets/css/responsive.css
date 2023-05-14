@@ -102,6 +102,10 @@
   textarea {
     font-size: 0.9rem;
   }
+
+  .send {
+    padding: 0.3rem 0.55rem;
+  }
 }
 
 @media (max-width: 576px) {
