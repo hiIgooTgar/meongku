@@ -1,2 +1,3 @@
-# hiigootgar.github.io/meongku
-membuat website sederhana HTML CSS JS projek-2
+## Membuat Website Sederhana | HTML CSS JS | Projek 2
+
+demo : hiigootgar.github.io/meongku
